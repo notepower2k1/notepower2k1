@@ -1,4 +1,4 @@
-### WELCOME TO MY PAGE 👋👋👋
+<p align="center">WELCOME TO MY PAGE 👋👋👋</p>
 
 ![Thach's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=notepower2k1&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 
