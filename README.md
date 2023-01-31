@@ -9,26 +9,20 @@
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=notepower2k1&repo=social_media_web_react&theme=radical"/>
 </a>    
-<br />
 <a href="https://github.com/notepower2k1/DataScience_MovieReview/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=notepower2k1&repo=DataScience_MovieReview&theme=merko"/>
 </a>
-<br />
 <a href="https://github.com/notepower2k1/Furniture-Management-System-Using-Spring-Boot/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=notepower2k1&repo=Furniture-Management-System-Using-Spring-Boot&theme=gruvbox" />
+  <img align="center" width="21px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=notepower2k1&repo=Furniture-Management-System-Using-Spring-Boot&theme=gruvbox" />
 </a>    
-
-<br />
 <br />
 <a href="https://github.com/notepower2k1/Thymeleaf_ComicWeb/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=notepower2k1&repo=Thymeleaf_ComicWeb&theme=dark"/>
 </a>
-<br />
 <a href="https://github.com/notepower2k1/ProjectPython/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=notepower2k1&repo=ProjectPython&theme=onedark"/>
 </a>    
-<br />
