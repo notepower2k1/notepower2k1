@@ -27,3 +27,8 @@
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=notepower2k1&repo=Furniture-Management-System&theme=gruvbox" />
 </a>    
+
+<a href="https://github.com/notepower2k1/FeatureList/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=notepower2k1&repo=FeatureList&theme=gruvbox" />
+</a>    
