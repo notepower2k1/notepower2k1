@@ -1,10 +1,10 @@
 <p align="center">WELCOME TO MY PAGE 👋👋👋</p>
-
 ![Thach's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=notepower2k1&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=notepower2k1&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
 
+## 📫 How to reach me: 
 <a href="https://github.com/notepower2k1/social_media_web_react/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=notepower2k1&repo=social_media_web_react&theme=radical"/>
