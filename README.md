@@ -1,5 +1,5 @@
 ### WELCOME TO MY PAGE 👋👋👋
-My name is Thach. I am a final year student and studying at Nha Trang University.
+My name is Thach. I am a final year student 👨‍🎓 and studying at Nha Trang University 🏫.
 <br>
 
 
