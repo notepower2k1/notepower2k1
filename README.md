@@ -2,7 +2,7 @@
 
 ![Thach's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=notepower2k1&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=notepowerk2k1&langs_count)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=notepowerk2k1&&langs_count=5)]
 
 
 <a href="https://github.com/notepower2k1/social_media_web_react/">
