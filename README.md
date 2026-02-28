@@ -8,7 +8,7 @@ I'm a backend-focused developer who enjoys building scalable services and optimi
 - Ubuntu/Linux server operations
 
 ### 🛠 Tech Stack
-- Node.js / TypeScript
+- PHP / TypeScript
 - Docker / Linux / Ubuntu
 - Redis / MongoDB
 - REST APIs
