@@ -1,4 +1,24 @@
-### WELCOME TO MY PAGE 👋👋👋
-## 📫 My repositories: 
+## 👋 Hi, I'm Thạch
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=notepower2k1&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+I'm a backend-focused developer who enjoys building scalable services and optimizing system performance.
+
+### 🚀 What I work on
+- AI chat services & vector storage
+- Chrome Extensions (local storage, reminder systems)
+- Dockerized microservices
+- Ubuntu/Linux server operations
+- SSH/SCP automation tools
+- GPU performance optimization for AI workloads
+
+### 🛠 Tech Stack
+- Node.js / TypeScript
+- Docker / Linux / Ubuntu
+- Redis / MongoDB
+- REST APIs
+- NVIDIA GPU tuning
+- System debugging & performance tuning
+
+### 🎯 Current Interests
+- Building cross-platform system tools (SSH + SCP with UI)
+- Deep diving into DevOps practices
+- AI service architecture & scaling
