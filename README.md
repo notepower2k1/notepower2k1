@@ -1,19 +1,48 @@
-## 👋 Hi, I'm Thạch
+<p align="center">
+  <img src="./banner_2.gif" alt="Banner">
+</p>
 
-I'm a backend-focused developer who enjoys building tool for free.
+<h1 align="center">Hi, I'm Thạch 👋</h1>
 
-### 🚀 What I work on
-- AI chat services & vector storage
-- Chrome Extensions (local storage, reminder systems)
-- Ubuntu/Linux server operations
-- Vibing python tool
+<p align="center">
+  <strong>Backend Developer · AI · Automation</strong>
+</p>
 
-### 🛠 Tech Stack
-- PHP / TypeScript
-- Docker / Linux / Ubuntu
-- Redis / MongoDB
-- REST APIs
-- System debugging & performance tuning
+<p align="center">
+  <sub><i>— Doing what I want. —</i></sub>
+</p>
 
-### 🎯 Current Interests
-- Vibing
+---
+
+## 👨‍💻 About Me
+
+- 🔧 Backend Developer focused on building practical and reliable systems
+- 🤖 Interested in AI agents, automation, and developer tools
+- 🧪 Building autonomous AI-powered web testing systems
+- 🎬 Working with AI-powered video processing and media automation
+- ⚙️ Enjoy designing systems that reduce repetitive manual work
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,ts,nodejs,php,mysql,redis,docker,linux,git,github" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
+  <img src="https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20Agents-000000?style=flat-square&logo=openai&logoColor=white" />
+</p>
+
+---
+
+## 🚀 What I'm Building
+
+- 🤖 Autonomous AI-powered web testing
+- 🎬 AI video processing and localization tools
+- ⚙️ Backend systems and automation
+- 🧠 AI-assisted developer tools
+
+---
