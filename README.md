@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner_2.gif" alt="Banner">
+  <img src="./banner_1.gif" alt="Banner">
 </p>
 
 <h1 align="center">Hi, I'm Thạch 👋</h1>
