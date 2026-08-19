@@ -46,3 +46,18 @@
 - 🧠 AI-assisted developer tools
 
 ---
+## 📊 GitHub Stats
+
+<p align="center">
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=notepower2k1&show_icons=true&hide_border=true&theme=transparent"
+    alt="GitHub Stats"
+  >
+</p>
+
+<p align="center">
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=notepower2k1&layout=compact&hide_border=true&theme=transparent&card_width=495"
+    alt="Top Languages"
+  >
+</p>
